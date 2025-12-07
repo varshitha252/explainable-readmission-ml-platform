@@ -1,0 +1,6 @@
+feature_1,feature_2,abs_corr
+metformin_No,metformin_Steady,0.9502298744297145
+glipizide_No,glipizide_Steady,0.9401482204414613
+insulin_Steady,insulin_No,0.6152668301018352
+payer_code_Unknown,payer_code_MC,0.5529013493142214
+change_No,insulin_No,0.5147499778979322

@@ -1,0 +1,11 @@
+feature_1,feature_2,abs_corr
+pioglitazone_No,pioglitazone_Steady,0.973348615799552
+metformin_No,metformin_Steady,0.9502298744297145
+glipizide_No,glipizide_Steady,0.9401482204414613
+glyburide_No,glyburide_Steady,0.9277334196880272
+A1Cresult_Unknown,A1Cresult_>8,0.6611059759404464
+insulin_Steady,insulin_No,0.6152668301018352
+insulin_No,diabetesMed_Yes,0.5834416142719921
+payer_code_Unknown,payer_code_MC,0.5529013493142214
+change_No,insulin_No,0.5147499778979322
+change_No,diabetesMed_Yes,0.5060998224791312
